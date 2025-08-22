@@ -2,9 +2,9 @@
   {
     "id": "5fbf6fe6d23c2257",
     "username": "SB",
-    "password": "SAMEER AND BISMILLAH",
+    "password": "SAM",
     "expiresAt": "2025-12-31",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "android_device_id_2",
